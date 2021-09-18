@@ -1,0 +1,25 @@
+{
+  "name": "divelog-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "core-js": "^3.15.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "nuxt": "^2.15.8",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5",
+    "sass-loader": "^12.1.0"
+  }
+}
