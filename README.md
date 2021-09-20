@@ -1,4 +1,4 @@
-# divelog-nuxt
+# divelog
 
 ## Build Setup
 
